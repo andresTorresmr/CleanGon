@@ -482,31 +482,6 @@ blockquote p {
   opacity: 1;
 }
 
-/* *********************************************************
-  Home Slider 
-********************************************************* */
-
-.header-carousel {
-  overflow: hidden;
-}
-
-.home-slider {
-  height: 700px;
-  background-repeat: repeat;
-  background-position: center center;
-}
-
-.home-slide-1 {
-  background-image: url('images/slider/big1.jpg');
-}
-
-.home-slide-2 {
-  background-image: url('images/slider/big2.jpg');
-}
-
-.home-slide-3 {
-  background-image: url('images/slider/big3.jpg');
-}
 
 /* *********************************************************
   Parallax 
